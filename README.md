@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/juan-pablo-cortez-39b01824a"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+  <a href="">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=gmail&label=&color=a5a&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/ElCaffeesito?tab=stars">
   <img src="https://img.shields.io/static/v1?message=Stars&logo=linktree&label=&color=c33&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
@@ -20,7 +26,7 @@
 
 ###
 
-<p align="left">Here is a little pick of what I like to listen to</p>
+<p align="left">Here is a little pick of what I like to listen to: </p>
 
 ###
 
@@ -66,7 +72,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ElCaffeesito/ElCaffeesito/output/snake.svg" alt="Snake animation" />
-![snake animation](https://github.com/ElCaffeesito/ElCaffeesito/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElCaffeesito/ElCaffeesito/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElCaffeesito/ElCaffeesito/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ElCaffeesito/ElCaffeesito/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ###
