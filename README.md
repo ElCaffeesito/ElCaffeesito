@@ -82,3 +82,7 @@
 </picture>
 
 ###
+
+<br>
+
+Thanks to all [these](https://github.com/ElCaffeesito/ElCaffeesito/blob/main/sources.md) people to inspire my README.
