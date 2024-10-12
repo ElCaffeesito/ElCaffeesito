@@ -31,9 +31,12 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/22nb7yu5alhs6wobwh3zyajoi">
-    <img src="https://now-play.vercel.app/api/generate?uid=5cfc6426-570f-4e2f-a84d-49612019c76b&theme=dark" />
-  </a>
+  <a href="https://ElCaffeesito.pythonanywhere.com/link">
+  <img
+    src="https://ElCaffeesito.pythonanywhere.com?theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
 </div>
 
 ###
